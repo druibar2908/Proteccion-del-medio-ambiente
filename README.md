@@ -20,6 +20,8 @@ https://www.universitatcarlemany.com/actualidad/que-son-los-riesgos-ambientales-
 
 https://www.buenastareas.com/ensayos/Objetivos-Generales-y-Especificos-Del-Medio/2389138.html
 
+https://daikinlatam.com/es/10-formas-de-reciclar-en-casa/
+
 ## Licencia
 
 ![Licencia](imagenes/licencia.png)
