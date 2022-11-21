@@ -6,11 +6,11 @@
 
 ### [¿Qué es la protección del medioambiente?](markdown/PMA.md)
 
-### [¿Cuáles son los riesgos ambientales?](imagenes/hedylamar.md)
+### [¿Cuáles son los riesgos ambientales?](markdown/RA.md)
 
-### [¿Cuáles son los objetivos de la protección del medio ambiente?](imagenes/hedylamar.md)
+### [¿Cuáles son los objetivos de la protección del medio ambiente?](markdown/OPMA.md)
 
-### [¿Cómo podemos garantizar la protección del medio ambiente?](imagenes/hedylamar.md)
+### [¿Cómo podemos garantizar la protección del medio ambiente?](markdown/PGPMA.md)
 
 ## Referencias
 
